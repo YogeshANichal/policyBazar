@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[clicking my account ]]>
+    </line>
+    <line>
+      <![CDATA[click login page]]>
+    </line>
+    <line>
+      <![CDATA[clicking sign in button]]>
+    </line>
+    <line>
+      <![CDATA[entering mobile number]]>
+    </line>
+    <line>
+      <![CDATA[clicking signin with password]]>
+    </line>
+    <line>
+      <![CDATA[entering password]]>
+    </line>
+    <line>
+      <![CDATA[clicking sign in button]]>
+    </line>
+    <line>
+      <![CDATA[clicking my account]]>
+    </line>
+    <line>
+      <![CDATA[clicking my profile]]>
+    </line>
+    <line>
+      <![CDATA[Tc excution is started for TcvalidateUserName1]]>
+    </line>
+    <line>
+      <![CDATA[validate username]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot]]>
+    </line>
+    <line>
+      <![CDATA[TC validateUserName1 passed sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[logout browser]]>
+    </line>
+    <line>
+      <![CDATA[close browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-04T22:49:08 IST" name="Suite" finished-at="2023-07-04T22:50:10 IST" duration-ms="61598">
+    <groups>
+    </groups>
+    <test started-at="2023-07-04T22:49:08 IST" name="Test" finished-at="2023-07-04T22:50:10 IST" duration-ms="61598">
+      <class name="test.PolicyBazzar">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:test.PolicyBazzar@6e9a5ed8]" started-at="2023-07-04T22:49:08 IST" name="launchbrowser" finished-at="2023-07-04T22:49:32 IST" duration-ms="23597" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[clicking my account ]]>
+            </line>
+            <line>
+              <![CDATA[click login page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method is-config="true" signature="SigninPolicyBazar()[pri:0, instance:test.PolicyBazzar@6e9a5ed8]" started-at="2023-07-04T22:49:32 IST" name="SigninPolicyBazar" finished-at="2023-07-04T22:50:04 IST" duration-ms="31902" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking sign in button]]>
+            </line>
+            <line>
+              <![CDATA[entering mobile number]]>
+            </line>
+            <line>
+              <![CDATA[clicking signin with password]]>
+            </line>
+            <line>
+              <![CDATA[entering password]]>
+            </line>
+            <line>
+              <![CDATA[clicking sign in button]]>
+            </line>
+            <line>
+              <![CDATA[clicking my account]]>
+            </line>
+            <line>
+              <![CDATA[clicking my profile]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SigninPolicyBazar -->
+        <test-method signature="validateUserName1()[pri:0, instance:test.PolicyBazzar@6e9a5ed8]" started-at="2023-07-04T22:50:04 IST" name="validateUserName1" finished-at="2023-07-04T22:50:08 IST" duration-ms="4917" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc excution is started for TcvalidateUserName1]]>
+            </line>
+            <line>
+              <![CDATA[validate username]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot]]>
+            </line>
+            <line>
+              <![CDATA[TC validateUserName1 passed sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserName1 -->
+        <test-method is-config="true" signature="logoutPolicyBazar()[pri:0, instance:test.PolicyBazzar@6e9a5ed8]" started-at="2023-07-04T22:50:08 IST" name="logoutPolicyBazar" finished-at="2023-07-04T22:50:09 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutPolicyBazar -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.PolicyBazzar@6e9a5ed8]" started-at="2023-07-04T22:50:09 IST" name="closebrowser" finished-at="2023-07-04T22:50:10 IST" duration-ms="761" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.PolicyBazzar -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
