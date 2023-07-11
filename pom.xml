@@ -46,7 +46,7 @@
           <version>3.1.2</version>
           <configuration>
 			  <suiteXmlFiles>
-           <suiteXmlFile>PolicyBazaartestng.xml</suiteXmlFile>
+           <suiteXmlFile>PolicyBazzartestng.xml</suiteXmlFile>
            </suiteXmlFiles>  
 
 		  </configuration>
